@@ -6,3 +6,4 @@ DOMAIN-SUFFIX,hkapi2.leigod.com
 IP-CIDR,107.174.246.0/21,no-resolve
 DOMAIN-SUFFIX,msftconnecttest.com,DIRECT
 DOMAIN-SUFFIX,msftncsi.com,DIRECT
+DOMAIN-KEYWORD,eydata
