@@ -20,3 +20,4 @@ DOMAIN-KEYWORD,cctalk
 DOMAIN-KEYWORD,dbankcloud
 DOMAIN-SUFFIX,yeshj.com
 DOMAIN-KEYWORD,dida365
+IP-CIDR,20.48.58.0/24,no-resolve
