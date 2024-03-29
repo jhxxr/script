@@ -1,7 +1,7 @@
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-SUFFIX,a.nel.cloudflare.com
-DOMAIN,openaiapi-site.azureedge.net
-DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,pay.openai.com
@@ -15,3 +15,4 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,coze.com
 DOMAIN-SUFFIX,ciciai.com
 DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-KEYWORD,cici
