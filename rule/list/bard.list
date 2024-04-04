@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,bard.google.com
+
 DOMAIN-KEYWORD,bard
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,google-analytics.com
@@ -15,3 +15,4 @@ DOMAIN-SUFFIX,googlehosted.com
 DOMAIN-SUFFIX,googlemail.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,waa-pa.clients6.google.com
+DOMAIN-SUFFIX,bard.google.com
