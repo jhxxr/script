@@ -26,3 +26,4 @@ IP-CIDR,47.236.22.0/24,no-resolve
 IP-CIDR,35.74.81.0/24,no-resolve
 DOMAIN-SUFFIX,7bu.top
 DOMAIN-SUFFIX,bu.dusays.com
+DOMAIN-KEYWORD,tidbcloud
