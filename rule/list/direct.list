@@ -1,7 +1,6 @@
 # 直连
 DOMAIN-KEYWORD,leigod
 DOMAIN-SUFFIX,webhkapi.leigod.com
-DOMAIN-SUFFIX,vps.jhxjhx.live
 DOMAIN-SUFFIX,hkapi2.leigod.com
 DOMAIN-SUFFIX,msftconnecttest.com,DIRECT
 DOMAIN-SUFFIX,msftncsi.com,DIRECT
@@ -20,10 +19,6 @@ DOMAIN-KEYWORD,cctalk
 DOMAIN-KEYWORD,dbankcloud
 DOMAIN-SUFFIX,yeshj.com
 DOMAIN-KEYWORD,dida365
-IP-CIDR,20.48.58.0/24,no-resolve
-IP-CIDR,8.219.106.0/24,no-resolve
-IP-CIDR,47.236.22.0/24,no-resolve
-IP-CIDR,35.74.81.0/24,no-resolve
 DOMAIN-SUFFIX,7bu.top
 DOMAIN-SUFFIX,bu.dusays.com
 DOMAIN-KEYWORD,tidbcloud
